@@ -1,6 +1,6 @@
 # 📚 GraphQL Reading List
 
-一個使用 GraphQL、React 和 MongoDB 建立的書籍管理系統，讓您可以瀏覽書籍清單、查看書籍詳情，以及新增書籍和作者。
+一個使用 GraphQL、React 和 MongoDB 建立的書籍管理系統，可以瀏覽書籍清單、查看書籍詳情，以及新增書籍和作者。
 
 ## ✨ 功能特色
 
